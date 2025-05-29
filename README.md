@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-            <meta charset="UTF-8">
-            <meta http-equiv="refresh" content="10;HTTP://WWW.IFTM.EDU.BR">
-            <meta name=“description” content="essa página te levara até outra página">
-            <meta name=“author” content="Talmo Alberto De Carvalho Junior">
-            <meta name=“reply-to” content="talmo.junior@estudante.iftm.edu.br">
-            <meta name=“keywords” content="fundamentos, web , desing">
-    </head>
-    <body>
-        <a href="HTTP://WWW.IFTM.EDU.BR"></a>
-    </body>
-</html>
+
